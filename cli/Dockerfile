@@ -1,8 +1,8 @@
 FROM node:14-alpine
 
 LABEL version="1.0.1"
-LABEL repository="http://github.com/netlify/actions"
-LABEL homepage="http://github.com/netlify/actions/netlify"
+LABEL repository="https://github.com/skew-markets/netlify-actions"
+LABEL homepage="https://github.com/skew-markets/netlify-actions/netlify"
 LABEL maintainer="Netlify"
 LABEL "com.github.actions.name"="Netlify"
 LABEL "com.github.actions.description"="Wraps the Netlify CLI to enable common Netlify commands"
